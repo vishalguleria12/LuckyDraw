@@ -1,0 +1,7 @@
+project_id = "kjyaxtqibvbosacrhcjj"
+
+[functions.select-expired-winners]
+verify_jwt = false
+
+[functions.send-prize-email]
+verify_jwt = false
